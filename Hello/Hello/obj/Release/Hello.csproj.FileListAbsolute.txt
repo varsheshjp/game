@@ -1,0 +1,6 @@
+C:\Users\varshesh\source\repos\Hello\Hello\bin\Release\Hello.exe.config
+C:\Users\varshesh\source\repos\Hello\Hello\bin\Release\Hello.exe
+C:\Users\varshesh\source\repos\Hello\Hello\bin\Release\Hello.pdb
+C:\Users\varshesh\source\repos\Hello\Hello\obj\Release\Hello.csproj.CoreCompileInputs.cache
+C:\Users\varshesh\source\repos\Hello\Hello\obj\Release\Hello.exe
+C:\Users\varshesh\source\repos\Hello\Hello\obj\Release\Hello.pdb
